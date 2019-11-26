@@ -16,6 +16,7 @@
 		<div>
 			<button type="reset">Reset</button>
 			<button type="submit">Login</button>
+			hello world;
 		</div>
 	</form>
 	<?php include 'footer.php'?>
